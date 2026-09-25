@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F2FE4,100:8E63CE&height=250&section=header&text=Hey,%20I'm%20Rachit%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Making%20Design%20That%20Converts&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2F2FE4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Product+Design+Intern+%40+North+of+Zero;UI%2FUX+Designer+%7C+Figma+%7C+Design+Systems;B.Tech+CSE+(Data+Science)+%40+Galgotias;Turning+Complex+Ideas+Into+Intuitive+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2F2FE4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Product+Design+Intern+%40+North+of+Zero;UI%2FUX+Designer+%7C+Figma+%7C+Design+Systems;B.Tech+CSE+(Data+Science);Turning+Complex+Ideas+Into+Intuitive+Experiences" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@ const rachit = {
     education: "B.Tech CSE (Data Science)",
     philosophy: "Creating impact through thoughtful design — turning complex ideas into intuitive, human-centered experiences.",
     tools: ["Figma", "Framer", "React", "Tailwind"],
-    currentlyBuilding: ["Accord", "LingoCord", "Galgotias G20 Summit '26"],
+    currentlyBuilding: ["Accord", "LingoCord"],
     askMeAbout: ["UI/UX Design", "Design Systems", "SaaS Landing Pages", "Frontend Dev"],
 };
 ```
